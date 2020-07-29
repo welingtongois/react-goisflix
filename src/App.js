@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Não adentre a boa noite apenas com ternura, não entre nessa noite acolhedora com ternura."}
+        videoDescription={"Olá Dogueiros, como vão? Hoje, vamos falar da raça de cachorro mais registrada nos Estados Unidos desde 1991. O Labrador é leal, inteligente, atlético e cheio de energia! ❤🐶"}
       />
 
       <Carousel
